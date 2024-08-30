@@ -1,0 +1,4 @@
+# Tensorflow 설치 시, Numpy 자동 설치!!!
+tensorflow>=2.16.1
+Pillow>=10.4.0
+scipy>=1.14.0
